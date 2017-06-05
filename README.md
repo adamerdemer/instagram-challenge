@@ -1,5 +1,17 @@
 Instagram Challenge
 ===================
+## User stories
+As a user,
+So I can create an account,
+I would like to sign up.
+
+As a user,
+So I can sign into my account,
+I would like to sign in.
+
+As a user,
+So I can sign out of my account,
+I would like to sign out.
 
 ## Instructions
 
